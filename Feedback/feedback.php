@@ -2,7 +2,6 @@
   include("../cabecalho/cabecalho.php")
 ?>
 
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,5 +37,22 @@
     <button type="submit" class="btn btn-primary btn-block">Enviar</button>
   </div>
   </form>
+
+<?php
+    session_start();
+    if(isset($_SESSION['status_feedback'])):
+  ?>
+
+  <div class = "notificacao">
+    <a>Obrigado pelo seu feedback!</a>
+  </div>
+
+  <?php
+    endif;
+    unset($_SESSION['status_feedback']);
+  ?>
+
+ 
+  
 </body>
 </html>
