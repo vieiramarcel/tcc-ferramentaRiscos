@@ -1,4 +1,5 @@
 <?php
+  
   include("../cabecalho/cabecalho.php")
 ?>
 
@@ -23,12 +24,12 @@
                     <form class="form-container" action = "processo.php" method = "POST">
                         <div class="form-group">
                             <label for="user"><B>E-MAIL</B></label>
-                            <input type="email" class="form-control" id="user" aria-describedby="emailHelp" name = "user">
+                            <input type="email" class="form-control" id="user" aria-describedby="emailHelp" name = "user" required>
                             <small id="emailHelp" class="form-text text-muted">Aba somente para administrador</small>
                         </div>
                         <div class="form-group">
                             <label for="pass"><B>SENHA</B></label>
-                            <input type="password" class="form-control" id="pass" name = "pass">
+                            <input type="password" class="form-control" id="pass" name = "pass" required>
                         </div>
                         <div class="form-group form-check">
                             <input type="checkbox" class="form-check-input" id="exampleCheck1">

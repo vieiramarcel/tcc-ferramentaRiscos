@@ -22,17 +22,17 @@
     <h1>Feedback</h1>
     <div class="txtb">
       <label><b>nome:</b></label>
-      <input type="text" name="nome" id = "nome" placeholder="Digite seu nome">
+      <input type="text" name="nome" id = "nome" placeholder="Digite seu nome" required>
     </div>
       
     <div class="txtb">
       <label><b>E-mail :</b></label>
-      <input type="email" name="email" id = "email" placeholder="Digite seu E-mail">
+      <input type="email" name="email" id = "email" placeholder="Digite seu E-mail" required>
     </div>
     
     <div class="txtb">
       <label><b>Mensagem</b></label>
-      <textarea name="mensagem" id = "mensagem"></textarea>
+      <textarea name="mensagem" id = "mensagem" required></textarea>
     </div>
     <button type="submit" class="btn btn-primary btn-block">Enviar</button>
   </div>
