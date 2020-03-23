@@ -1,6 +1,6 @@
 <?php
-  
-  include("../cabecalho/cabecalho.php")
+  include("../cabecalho/cabecalho.php");
+  include("manterLogin.php");
 ?>
 
 <!DOCTYPE html>

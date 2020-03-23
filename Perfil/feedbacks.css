@@ -1,4 +1,8 @@
 
+.titulo h1{
+    margin-top: 60px;
+    margin-bottom :-30px; 
+}
 
 .table {
     border-collapse: collapse;
@@ -7,6 +11,7 @@
     text-align: left;
     margin-top: 60px;
     margin-bottom: 30px;
+    
 }
 
 @media screen and (max-width: 767px) {

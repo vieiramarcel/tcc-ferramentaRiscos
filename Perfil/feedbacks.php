@@ -17,6 +17,9 @@
 </head>
    
     <body>
+        <div class = "titulo">
+            <h1><center>Feedbacks</center></h1>
+        </div>
     <div class = "table-responsive" >   
     <table class = "table">
     <tr>
@@ -52,7 +55,7 @@
     </table>
     
     <div class = "botao">
-        <button class = "sair" onclick="window.location.href = 'perfil.php'">Sair</button>
+        <button class = "sair" onclick="window.location.href = 'sair.php'">Sair</button>
     </div>
 </div>
     </body>

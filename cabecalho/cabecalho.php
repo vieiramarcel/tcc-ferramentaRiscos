@@ -67,7 +67,7 @@
                     <a class="nav-link" href="../Feedback/feedback.php">Feedback</a>
                   </li>  
                   <li class="nav-item">
-                    <a class="nav-link" href="../Informacoes/informacoes.php">Informações</a>
+                    <a class="nav-link" href="../Fundamentacao/fundamentacao.php">Fundamentação</a>
                   </li>                      
                 </ul>
               </div>

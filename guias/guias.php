@@ -25,7 +25,7 @@
 		<h1> Conjunto de práticas</h1>
 		<button class="accordion"><b>Metodologia ágil</b></button>	
 		<div class="panel" id="metodologiaAgil">
-
+			
 		</div>
 
 		<button class="accordion"><b>Pápeis</b></button>
