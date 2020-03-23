@@ -35,7 +35,7 @@
             <ul>
                 <li><a href="">Metodologias ágeis</a></li>
                 <li><a href="">Gerência de projetos</a></li>
-                <li><a href="">Riscos</a></li>
+                <li><a href="">Riscos em projetos de software</a></li>
             </ul>
 </div>
 </div>
