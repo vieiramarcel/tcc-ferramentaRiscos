@@ -27,7 +27,6 @@
                 <li><a href="">Apresentação</a></li>
             </ul>
             </div>
-          
 
             <div class = "item">
             <input type="checkbox" id="check2">
@@ -36,6 +35,16 @@
                 <li><a href="">Metodologias ágeis</a></li>
                 <li><a href="">Gerência de projetos</a></li>
                 <li><a href="">Riscos em projetos de software</a></li>
+            </ul>
+
+            <div class = "item">
+            <input type="checkbox" id="check3">
+            <label for="check3">Gerenciamento ágil de riscos</label>
+            <ul>
+                <li><a href="">Papéis</a></li>
+                <li><a href="">Cerimônias</a></li>
+                <li><a href="">Atividades</a></li>
+                <li><a href="">Ferramentas e técnicas</a></li>
             </ul>
 </div>
 </div>
